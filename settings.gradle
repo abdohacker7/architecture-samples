@@ -1,0 +1,2 @@
+rootProject.name = "AppFirewall"
+include ':app'
